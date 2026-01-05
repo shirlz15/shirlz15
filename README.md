@@ -42,7 +42,8 @@ I enjoy breaking down complex logic into simple steps—especially when debuggin
         <a href="https://github.com/shirlz15/brick-breaker-game">🔗 Repository</a> | <a href="https://youtu.be/ZrtFob44jRs">🌐Demo</a>
       </p>
     </td>
-
+  </tr>
+ <tr>
     <td width="33%" valign="top">
       <h3>💪 FitRegion</h3>
       <p><b>Type:</b> Web Application</p>
@@ -60,7 +61,8 @@ I enjoy breaking down complex logic into simple steps—especially when debuggin
         <a href="REPO_LIN">🔗 Repository</a> | <a href="DEMO_LINK">🌐 Live Demo</a>
       </p>
     </td>
-
+ </tr>
+ <tr>
     <td width="33%" valign="top">
       <h3>🗂️ Student Record Management System</h3>
       <p><b>Focus:</b> Logic & Data Handling</p>
