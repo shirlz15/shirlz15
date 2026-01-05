@@ -16,6 +16,7 @@ I enjoy breaking down complex logic into simple steps—especially when debuggin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shirley%20S-0a66c2?style=flat)](https://linkedin.com/in/shirley-s-a38261378/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-d73a49?style=flat)](mailto:myselfshirlz15@gmail.com)
 
+---
 ## 🚀 Project Highlights
 - **Brick Breaker Game (C):** Led a team and implemented gameplay logic, Ghost Mode, and rule-based score feedback  
 - **FitRegion:** Designed a student-friendly fitness & diet planner with BMI-based suggestions and regional diets  
