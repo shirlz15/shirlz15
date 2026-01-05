@@ -75,7 +75,7 @@ I enjoy breaking down complex logic into simple steps—especially when debuggin
       </ul>
       <p><b>Core Concepts:</b> Structures, functions, control flow</p>
       <p>
-        <a href="REPO_LINK">🔗 Repository</a>
+        <a href="https://github.com/shirlz15/student-record-management-system">🔗 Repository</a>
       </p>
     </td>
   </tr>
