@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Shirley S
 
-<!--
-**shirlz15/shirlz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-year B.Tech Computer Science and Engineering student | Class of 2029**
 
-Here are some ideas to get you started:
+- 🧱 Team lead for a **Brick Breaker Game in C**, where I coordinated tasks and implemented features like Ghost Mode, color selection, collision handling, and rule-based score feedback  
+- 🌐 Built **FitRegion**, a fitness & diet planning web application using **HTML, CSS, and JavaScript**, with BMI-based workouts and region-aware Indian diets  
+- 🗂️ Developed a **Student Record Management System in C**, focusing on structured data storage, search functionality, and clean documentation  
+- 🌱 Currently strengthening my fundamentals in **C programming, web technologies, and problem-solving**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun fact
+I enjoy breaking down complex logic into simple steps—especially when debugging C programs late at night 😄
+
+### 📫 How to reach me
+- 📧 Email: **myselfshirlz15@gmail.com**  
+- 💼 LinkedIn: **https://linkedin.com/in/shirley-s-a38261378**  
+- 💻 GitHub: **https://github.com/shirlz15**
+
