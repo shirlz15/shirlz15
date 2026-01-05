@@ -22,7 +22,7 @@ I enjoy breaking down complex logic into simple steps—especially when debuggin
 - **FitRegion:** Designed a student-friendly fitness & diet planner with BMI-based suggestions and regional diets  
 - **Student Record System:** Built structured data storage with search and display using C
 
-## 🚀 Projects
+## Projects
 <table>
   <tr>
     <td width="33%" valign="top">
