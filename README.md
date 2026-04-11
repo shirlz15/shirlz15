@@ -53,7 +53,22 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 [→ repository](https://github.com/shirlz15/ChatShield.git) &nbsp; [→ demo](https://www.youtube.com/watch?v=HajTdGao3vw)
  
 ---
- 
+ ### 🧬 Blood Line Navigator
+
+`Web Application` `AI System` `Healthcare Tech`
+
+> AI-powered blood supply and logistics system designed for emergency healthcare scenarios.
+
+- Real-time blood inventory tracking across hospitals and blood banks  
+- AI-based demand prediction using historical and live data  
+- Automated compatibility matching to ensure safe transfusion  
+- Smart route optimization for faster delivery  
+- Centralized dashboard with live alerts and monitoring  
+
+`AI integration` `Data Processing` `System Design` `Healthcare Logistics`
+
+→ [repository](https://github.com/shirlz15/Blood-line-Navigator)
+
 ### 🧱 Brick Breaker — Game in C
 `C` &nbsp; `Team Lead`
  
