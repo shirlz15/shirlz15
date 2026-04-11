@@ -89,6 +89,24 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 [→ repository](https://github.com/shirlz15/JeevanRakshak_Data_Protection.git)
 
 ---
+### ❤️ Aarunya Health — Privacy-Aware AI Model Sharing in IoT  
+`IoT` &nbsp; `AI Security` &nbsp; `Healthcare System` &nbsp; `featured`
+
+> Distributed AI-powered healthcare system that monitors patient vitals and actively protects data by detecting malicious activity and triggering a self-destruct mechanism.
+
+- Multi-device architecture using **Laptop 1 (MQTT Publisher) Laptop 2 (Broker) Laptop 3 (Subscriber)**  
+- Real-time sensor data transmission via **MQTT protocol**  
+- AI-based trust analysis to detect abnormal or malicious behavior  
+- Dedicated **security node (Laptop 3)** triggers automatic self-destruct on threats  
+- Prevents unauthorized access and stops data flow during attacks  
+- Live health monitoring dashboard with continuous data updates  
+- Hardware-based alert system for immediate response  
+
+`MQTT` &nbsp; `Influx-DB` &nbsp; `AI Security` &nbsp; `Distributed Systems` &nbsp; `Node-RED`
+
+🔗 [Repository](https://github.com/shirlz15/)
+🎥 Demo: *(Add if available)*
+---
 
 ### 🧱 Brick Breaker — Game in C
 `C` &nbsp; `Team Lead`
