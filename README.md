@@ -39,86 +39,75 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
  
 ### 🛡️ ChatShield — Grooming Detection AI
 `Chrome Extension` &nbsp; `AI Security Tool` &nbsp; `featured`
- 
-> Real-time grooming detection running directly inside messaging platforms.  
-> Multi-layer AI analysis — semantic detection, behavioral pattern matching, and live risk alerts.
- 
-- Real-time malicious message detection inside chat interfaces
-- Behavioral pattern recognition + AI-based semantic analysis
-- Risk timeline visualization with live severity indicators
-- Downloadable reports with escalation guidance
- 
-`AI integration` &nbsp; `DOM manipulation` &nbsp; `Chrome Extension` &nbsp; `Behavioral Analysis`
- 
+Problem: Unsafe chats lack real-time detection of harmful behavior  
+Solution: Chrome extension that flags risky messages inside chats  
+
+Features:
+• Real-time message risk detection  
+• Keyword + behavior pattern tracking  
+• Message highlighting with severity levels  
+• Live risk timeline across conversation  
+
 [→ repository](https://github.com/shirlz15/ChatShield.git) &nbsp; [→ demo](https://www.youtube.com/watch?v=HajTdGao3vw)
  
 ---
  ### 🧬 Blood Line Navigator
 
-`Web Application` `AI System` `Healthcare Tech`
+`Web Application` `AI System` `Healthcare Logistics`
+Problem: Blood Type availability is delayed in emergency situations  
+Solution: System to track, predict, and route blood supply in real-time  
 
-> AI-powered blood supply and logistics system designed for emergency healthcare scenarios.
-
-- Real-time blood inventory tracking across hospitals and blood banks  
-- AI-based demand prediction using historical and live data  
-- Automated compatibility matching to ensure safe transfusion  
-- Smart route optimization for faster delivery  
-- Centralized dashboard with live alerts and monitoring  
-
-`AI integration` `Data Processing` `System Design` `Healthcare Logistics`
+Features:
+• Live blood inventory tracking  
+• Demand prediction using past data  
+• Smart routing for faster delivery  
+• Centralized monitoring dashboard  
 
 → [repository](https://github.com/shirlz15/Blood-line-Navigator)
 
 ---
 ### 🛡️ JeevanRakshak — AI Health Guardian  
-`AI Healthcare System` &nbsp; `IoT + AI` &nbsp; `featured`
+`AI Healthcare System` &nbsp; `IoT + AI` &nbsp; `featured` &nbsp; `IoT Sensors` &nbsp; `JavaScript`
 
-> AI-powered preventive healthcare system for real-time monitoring and early risk detection.
+Problem: Lack of continuous monitoring for early health risks  
+Solution: IoT-based system for real-time health tracking and alerts  
 
-> Designed to support elderly individuals and rural healthcare with continuous monitoring, voice interaction, and emergency alerts.
-
-- Real-time health monitoring (heart rate, temperature, etc.)
-- AI-based risk classification (Normal / Moderate / Critical)
-- Voice-enabled interaction for accessibility
-- Automatic emergency alert system for critical conditions
-- Live dashboard with health data visualization
-- Data storage for history tracking and analysis
-
-`AI logic` &nbsp; `Web Speech API` &nbsp; `IoT Sensors` &nbsp; `JavaScript` &nbsp; `Healthcare AI`
+Features:
+• Live vital monitoring (heart rate, temperature)  
+• Risk classification (Normal / Moderate / Critical)  
+• Voice-based interaction support  
+• Emergency alert system  
 
 [→ repository](https://github.com/shirlz15/JeevanRakshak_Data_Protection.git)
 
 ---
 ### ❤️ Aarunya Health — Privacy-Aware AI Model Sharing in IoT  
-`IoT` &nbsp; `AI Security` &nbsp; `Healthcare System` &nbsp; `featured`
+`IoT` &nbsp; `AI Security` &nbsp; `Healthcare System` &nbsp; `featured` `MQTT` &nbsp; `Influx-DB` &nbsp; `Node-RED`
 
-> Distributed AI-powered healthcare system that monitors patient vitals and actively protects data by detecting malicious activity and triggering a self-destruct mechanism.
+Problem: Healthcare data is vulnerable to unauthorized access  
+Solution: Secure IoT system that detects threats and stops data flow  
 
-- Multi-device architecture using **Laptop 1 (MQTT Publisher) Laptop 2 (Broker) Laptop 3 (Subscriber)**  
-- Real-time sensor data transmission via **MQTT protocol**  
-- AI-based trust analysis to detect abnormal or malicious behavior  
-- Dedicated **security node (Laptop 3)** triggers automatic self-destruct on threats  
-- Prevents unauthorized access and stops data flow during attacks  
-- Live health monitoring dashboard with continuous data updates  
-- Hardware-based alert system for immediate response  
-
-`MQTT` &nbsp; `Influx-DB` &nbsp; `AI Security` &nbsp; `Distributed Systems` &nbsp; `Node-RED`
+Features:
+• Multi-device architecture (publisher, broker, subscriber)  
+• Real-time sensor data via MQTT  
+• Threat detection with automatic response  
+• Data flow control during attacks  
 
 →  [Repository](https://github.com/shirlz15/)
 
 ---
 
 ### 🧱 Brick Breaker — Game in C
-`C` &nbsp; `Team Lead`
- 
-> Classic arcade game, built from scratch and led as a team project.  
-> Focused on clean game logic, Ghost Mode mechanics, and rule-based score feedback.
- 
-- Collision detection and full gameplay loop implementation
-- Ghost Mode — a custom mechanic built on condition-based logic
-- Coordinated team task division and final codebase integration
- 
-`C` &nbsp; `Game Loops` &nbsp; `State Handling` &nbsp; `Team Lead`
+`C` &nbsp; `Team Lead` &nbsp; `Game Loops` &nbsp; `State Handling`
+
+Problem: Learning game logic lacks practical implementation  
+Solution: Built a full arcade game from scratch in C  
+
+Features:
+• Collision detection system  
+• Complete game loop implementation  
+• Custom mechanics (Ghost Mode)  
+• Team-led development and integration  
  
 [→ repository](https://github.com/shirlz15/brick-breaker-game) &nbsp; [→ demo](https://youtu.be/ZrtFob44jRs)
  
