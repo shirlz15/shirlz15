@@ -88,6 +88,8 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 
 [→ repository](https://github.com/shirlz15/JeevanRakshak_Data_Protection.git)
 
+---
+
 ### 🧱 Brick Breaker — Game in C
 `C` &nbsp; `Team Lead`
  
