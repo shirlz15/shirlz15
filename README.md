@@ -106,6 +106,7 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 
 🔗 [Repository](https://github.com/shirlz15/)
 🎥 Demo: *(Add if available)*
+
 ---
 
 ### 🧱 Brick Breaker — Game in C
