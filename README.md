@@ -87,7 +87,7 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 `AI logic` &nbsp; `Web Speech API` &nbsp; `IoT Sensors` &nbsp; `JavaScript` &nbsp; `Healthcare AI`
 
 [→ repository](https://github.com/shirlz15/JeevanRakshak_Data_Protection.git)
----
+
 ### 🧱 Brick Breaker — Game in C
 `C` &nbsp; `Team Lead`
  
