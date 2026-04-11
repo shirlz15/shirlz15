@@ -38,7 +38,7 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 ## projects
  
 ### 🛡️ ChatShield — Grooming Detection AI
-`Chrome Extension` &nbsp; `AI Security Tool` &nbsp; `featured`
+`Chrome Extension` &nbsp; `AI Security Tool` &nbsp; `featured` \n
 Problem: Unsafe chats lack real-time detection of harmful behavior  
 Solution: Chrome extension that flags risky messages inside chats  
 
