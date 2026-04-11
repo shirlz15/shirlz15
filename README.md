@@ -69,6 +69,8 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 
 → [repository](https://github.com/shirlz15/Blood-line-Navigator)
 
+---
+
 ### 🧱 Brick Breaker — Game in C
 `C` &nbsp; `Team Lead`
  
