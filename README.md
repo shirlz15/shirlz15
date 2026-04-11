@@ -1,84 +1,82 @@
-## 👋 Hi, I'm Shirley S
-
-**First-year B.Tech Computer Science and Engineering student | Class of 2029**
+<!-- README.md — shirlz15 -->
  
-- 🌱 Currently strengthening my fundamentals in **C programming, web technologies, and problem-solving**
-
-### ⚡ Fun fact
-I enjoy breaking down complex logic into simple steps—especially when debugging C programs late at night 😄
-
-![Profile Views](https://komarev.com/ghpvc/?username=shirlz15&color=1f6feb)
-
-![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-1f6feb?style=flat)
-![Open to Hackathons](https://img.shields.io/badge/Open%20to-Hackathons-6f42c1?style=flat)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-shirlz15.github.io-24292e?style=flat)](https://shirlz15.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shirley%20S-0a66c2?style=flat)](https://linkedin.com/in/shirley-s-a38261378/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-d73a49?style=flat)](mailto:myselfshirlz15@gmail.com)
-
+```
+  shirley s · b.tech cse · class of 2029
+  builder of things that matter
+```
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=shirlz15&color=534AB7&style=flat-square)
+&nbsp;
+![Open to Internships](https://img.shields.io/badge/open_to-internships-1D9E75?style=flat-square)
+&nbsp;
+![Open to Hackathons](https://img.shields.io/badge/open_to-hackathons-534AB7?style=flat-square)
+ 
 ---
-### Project Highlights
-- **Brick Breaker Game (C):** Led a team and implemented gameplay logic, Ghost Mode, and rule-based score feedback  
-- **FitRegion:** Designed a student-friendly fitness & diet planner with BMI-based suggestions and regional diets  
-- **Student Record System:** Built structured data storage with search and display using C
-
-## Projects
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧱 Brick Breaker Game (C)</h3>
-      <p><b>Role:</b> Team Lead</p>
-      <p>
-        A classic arcade-style game developed in C, focused on clean game
-        logic and structured design.
-      </p>
-      <ul>
-        <li>Implemented Ghost Mode and rule-based score feedback</li>
-        <li>Handled collision detection and gameplay flow</li>
-        <li>Coordinated task division and final integration</li>
-      </ul>
-      <p><b>Core Concepts:</b> Game loops, state handling, condition-based logic</p>
-      <p>
-        <a href="https://github.com/shirlz15/brick-breaker-game">🔗 Repository</a> | <a href="https://youtu.be/ZrtFob44jRs">🌐Demo</a>
-      </p>
-    </td>
-  </tr>
- <tr>
-    <td width="33%" valign="top">
-      <h3>💪 FitRegion</h3>
-      <p><b>Type:</b> Web Application</p>
-      <p>
-        A student-focused fitness and diet planning platform built with
-        frontend web technologies.
-      </p>
-      <ul>
-        <li>BMI-driven workout recommendations</li>
-        <li>Region-aware Indian diet suggestions</li>
-        <li>Weekly planning with hostel-friendly mode</li>
-      </ul>
-      <p><b>Core Concepts:</b> DOM manipulation, conditional rendering, UI logic</p>
-      <p>
-        <a href="REPO_LIN">🔗 Repository</a> | <a href="DEMO_LINK">🌐 Live Demo</a>
-      </p>
-    </td>
- </tr>
- <tr>
-    <td width="33%" valign="top">
-      <h3>🗂️ Student Record Management System</h3>
-      <p><b>Focus:</b> Logic & Data Handling</p>
-      <p>
-        A C-based academic system designed to practice structured data
-        management and clean program flow.
-      </p>
-      <ul>
-        <li>Implemented storage, search, and display using structures</li>
-        <li>Emphasis on readability and modular functions</li>
-        <li>Handled edge cases in user input</li>
-      </ul>
-      <p><b>Core Concepts:</b> Structures, functions, control flow</p>
-      <p>
-        <a href="https://github.com/shirlz15/student-record-management-system">🔗 Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
+ 
+I approach problems from different angles and build solutions that have real-world impact.  
+Complex problems, clear solutions — that's the challenge I enjoy most.
+ 
+[![Portfolio](https://img.shields.io/badge/portfolio-shirlz15.github.io-24292e?style=flat-square)](https://shirlz15.github.io)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-shirley_s-0a66c2?style=flat-square)](https://linkedin.com/in/shirley-s-a38261378/)
+&nbsp;
+[![Email](https://img.shields.io/badge/email-contact_me-d73a49?style=flat-square)](mailto:myselfshirlz15@gmail.com)
+ 
+---
+ 
+## what i work on
+ 
+| area | focus |
+|---|---|
+| 🛡️ **AI Safety** | real-time threat detection, behavioral analysis |
+| 🎮 **Systems** | game loops, state logic, structured design |
+| 🌐 **Browser Extensions** | DOM manipulation, real-time processing, APIs |
+| 🧩 **Problem Design** | simplify → structure → ship |
+ 
+---
+ 
+## projects
+ 
+### 🛡️ ChatShield — Grooming Detection AI
+`Chrome Extension` &nbsp; `AI Security Tool` &nbsp; `featured`
+ 
+> Real-time grooming detection running directly inside messaging platforms.  
+> Multi-layer AI analysis — semantic detection, behavioral pattern matching, and live risk alerts.
+ 
+- Real-time malicious message detection inside chat interfaces
+- Behavioral pattern recognition + AI-based semantic analysis
+- Risk timeline visualization with live severity indicators
+- Downloadable reports with escalation guidance
+ 
+`AI integration` &nbsp; `DOM manipulation` &nbsp; `Chrome Extension` &nbsp; `Behavioral Analysis`
+ 
+[→ repository](https://github.com/shirlz15/Blood-line-Navigator) &nbsp; [→ demo](#)
+ 
+---
+ 
+### 🧱 Brick Breaker — Game in C
+`C` &nbsp; `Team Lead`
+ 
+> Classic arcade game, built from scratch and led as a team project.  
+> Focused on clean game logic, Ghost Mode mechanics, and rule-based score feedback.
+ 
+- Collision detection and full gameplay loop implementation
+- Ghost Mode — a custom mechanic built on condition-based logic
+- Coordinated team task division and final codebase integration
+ 
+`C` &nbsp; `Game Loops` &nbsp; `State Handling` &nbsp; `Team Lead`
+ 
+[→ repository](https://github.com/shirlz15/brick-breaker-game) &nbsp; [→ demo](https://youtu.be/ZrtFob44jRs)
+ 
+---
+ 
+## currently
+ 
+- Building, breaking, and fixing things
+- Learning systems design from first principles
+- Looking for problems worth solving
+ 
+---
+ 
+*"I like simplifying complex problems into clear, practical solutions —  
+especially when they solve something meaningful for real people."*
