@@ -50,7 +50,7 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
  
 `AI integration` &nbsp; `DOM manipulation` &nbsp; `Chrome Extension` &nbsp; `Behavioral Analysis`
  
-[→ repository](https://github.com/shirlz15/Blood-line-Navigator) &nbsp; [→ demo](#)
+[→ repository](https://github.com/shirlz15/ChatShield.git) &nbsp; [→ demo](#)
  
 ---
  
