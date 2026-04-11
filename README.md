@@ -38,7 +38,7 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 ## projects
  
 ### 🛡️ ChatShield — Grooming Detection AI
-`Chrome Extension` &nbsp; `AI Security Tool` &nbsp; `featured` \n
+`Chrome Extension` &nbsp; `AI Security Tool` &nbsp; `featured` &nbsp;
 Problem: Unsafe chats lack real-time detection of harmful behavior  
 Solution: Chrome extension that flags risky messages inside chats  
 
@@ -53,7 +53,7 @@ Features:
 ---
  ### 🧬 Blood Line Navigator
 
-`Web Application` `AI System` `Healthcare Logistics`
+`Web Application` `AI System` `Healthcare Logistics` &nbsp;
 Problem: Blood Type availability is delayed in emergency situations  
 Solution: System to track, predict, and route blood supply in real-time  
 
@@ -67,7 +67,7 @@ Features:
 
 ---
 ### 🛡️ JeevanRakshak — AI Health Guardian  
-`AI Healthcare System` &nbsp; `IoT + AI` &nbsp; `featured` &nbsp; `IoT Sensors` &nbsp; `JavaScript`
+`AI Healthcare System` &nbsp; `IoT + AI` &nbsp; `featured` &nbsp; `IoT Sensors` &nbsp; `JavaScript` &nbsp;
 
 Problem: Lack of continuous monitoring for early health risks  
 Solution: IoT-based system for real-time health tracking and alerts  
