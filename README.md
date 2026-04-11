@@ -104,8 +104,7 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 
 `MQTT` &nbsp; `Influx-DB` &nbsp; `AI Security` &nbsp; `Distributed Systems` &nbsp; `Node-RED`
 
-🔗 [Repository](https://github.com/shirlz15/)
-🎥 Demo: *(Add if available)*
+→  [Repository](https://github.com/shirlz15/)
 
 ---
 
