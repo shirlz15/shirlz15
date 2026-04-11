@@ -70,7 +70,24 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 → [repository](https://github.com/shirlz15/Blood-line-Navigator)
 
 ---
+### 🩺 JeevanRakshak – AI Health Guardian
 
+`AI` `Healthcare` `IoT` `Real-time Monitoring`
+
+> A preventive healthcare system designed to monitor vital health parameters in real time and provide early risk detection with automated alerts.
+
+- Continuous monitoring of health data like heart rate and temperature  
+- AI-based risk classification (Normal / Moderate / Critical)  
+- Real-time alerts for emergency situations  
+- Voice-based interaction for better accessibility  
+- Live dashboard with real-time health status  
+- Stores historical data for tracking and analysis  
+
+**Core Concepts:** AI-based decision making, real-time systems, IoT integration, data processing, alert systems  
+
+→ [repository](https://github.com/shirlz15/JeevanRakshak_Data_Protection)
+
+---
 ### 🧱 Brick Breaker — Game in C
 `C` &nbsp; `Team Lead`
  
