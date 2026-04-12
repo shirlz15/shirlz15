@@ -81,6 +81,24 @@ Features:
 • Emergency alert system  
 
 [→ repository](https://github.com/shirlz15/JeevanRakshak_Data_Protection.git)
+---
+
+❄️ Emergency Resource Decision System — Snowflake + Tableau  
+`Data Engineering` `Analytics` `Healthcare` `featured` `Snowflake` `Tableau`
+
+Problem: Hospitals lack real-time visibility to prioritize resources during emergencies  
+
+Solution: Data pipeline + analytics system that ranks hospitals and predicts demand using Snowflake SQL  
+
+Features:
+
+• Priority scoring (0–100) for hospital risk ranking  
+• Critical alert detection (beds, ICU, blood shortages)  
+• Demand trend analysis using SQL window functions (LAG)  
+• Predictive alerts for rising demand (early warning system)  
+• Centralized dashboard combining all metrics  
+
+→ [Repository](https://github.com/shirlz15/Snowflake)
 
 ---
 ### ❤️ Aarunya Health — Privacy-Aware AI Model Sharing in IoT  
