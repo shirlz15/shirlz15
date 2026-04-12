@@ -84,7 +84,7 @@ Features:
 
 ---
 
-❄️ Emergency Resource Decision System — Snowflake + Tableau  
+### ❄️ Emergency Resource Decision System — Snowflake + Tableau  
 `Data Engineering` `Analytics` `Healthcare` `featured` `Snowflake` `Tableau`
 
 Problem: Hospitals lack real-time visibility to prioritize resources during emergencies  
