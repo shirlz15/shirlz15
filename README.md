@@ -95,7 +95,7 @@ Features:
 • Threat detection with automatic response  
 • Data flow control during attacks  
 
-→  [Repository](https://github.com/shirlz15/)
+→  [Repository](https://github.com/shirlz15/Aarunya-Health-Privacy-Aware-AI-Model-Sharing-in-IoT.git)
 
 ---
 
