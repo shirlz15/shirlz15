@@ -78,9 +78,10 @@ Features:
 • Live vital monitoring (heart rate, temperature)  
 • Risk classification (Normal / Moderate / Critical)  
 • Voice-based interaction support  
-• Emergency alert system  
+• Emergency alert system
 
 [→ repository](https://github.com/shirlz15/JeevanRakshak_Data_Protection.git)
+
 ---
 
 ❄️ Emergency Resource Decision System — Snowflake + Tableau  
