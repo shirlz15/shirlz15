@@ -58,7 +58,7 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 - Database: Supabase
 
 [- repository](https://github.com/shirlz15/aqaar-ai-concierge) &nbsp; [- demo](https://youtu.be/PiM6pRjDbkw)
-
+---
 ### 🛡️ ChatShield — Grooming Detection AI
 `Chrome Extension` &nbsp; `AI Security Tool` &nbsp; `featured` &nbsp;
 
