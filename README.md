@@ -36,7 +36,29 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 ---
  
 ## projects
- 
+### 🏡 Aqaar AI Concierge
+
+`AI Real Estate Concierge` &nbsp; `RAG + Gemini LLM` &nbsp; `Featured Project`
+
+**Problem:** Finding verified properties and personalized recommendations is often slow and unreliable.
+
+**Solution:** An AI-powered real estate concierge that uses a verified Aqaar knowledge base to deliver grounded property recommendations and comparisons.
+
+**Features:**
+- Gemini LLM-powered conversational assistant
+- RAG-based retrieval from verified Aqaar knowledge base
+- Gemini Vision for image-based property search *(implemented; subject to API quota limits)*
+- Intelligent intent detection and lead capture
+- Property comparison using verified brochure data
+- Admin dashboard with analytics and conversation insights
+
+**Tech Stack:**
+- Frontend: Netlify
+- Backend: Node.js (Render)
+- Database: Supabase
+
+[- repository](https://github.com/shirlz15/aqaar-ai-concierge) &nbsp; [- demo](https://youtu.be/PiM6pRjDbkw)
+
 ### 🛡️ ChatShield — Grooming Detection AI
 `Chrome Extension` &nbsp; `AI Security Tool` &nbsp; `featured` &nbsp;
 
