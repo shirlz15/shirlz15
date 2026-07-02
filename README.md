@@ -36,6 +36,28 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 ---
  
 ## projects
+### 🔹 TalentLens AI
+**AI-Powered Recruiter Cognitive Twin** &nbsp;|&nbsp; Featured Hackathon Project
+
+**Problem:** Traditional ATS systems rely on keyword matching, often missing highly qualified candidates.
+
+**Solution:** An AI-powered hiring platform that combines semantic search, hybrid ranking, and explainable AI to identify the best candidates beyond keywords.
+
+**Features:**
+- Semantic resume search using FAISS
+- AI-powered candidate ranking
+- Hidden Gems detection
+- Explainable AI insights
+- Resume parsing & JD analysis
+
+**Tech Stack:**
+- Frontend: HTML, CSS, JavaScript (Netlify)
+- Backend: FastAPI (Render)
+- AI: Sentence Transformers, FAISS, OpenAI
+
+- **Repository:** https://github.com/shirlz15/TalentLens-AI
+- **Demo:** https://tiny-sopapillas-e6d773.netlify.app
+
 ### 🏡 Aqaar AI Concierge
 
 `AI Real Estate Concierge` &nbsp; `RAG + Gemini LLM` &nbsp; `Featured Project`
