@@ -54,9 +54,10 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 - Frontend: HTML, CSS, JavaScript (Netlify)
 - Backend: FastAPI (Render)
 - AI: Sentence Transformers, FAISS, OpenAI
+  
+[- repository](https://github.com/shirlz15/TalentLens-AI) &nbsp; [- demo](https://youtu.be/PiM6pRjDbkw)
+[- Website Link](https://tiny-sopapillas-e6d773.netlify.app)
 
-- **Repository:** https://github.com/shirlz15/TalentLens-AI
-- **Demo:** https://tiny-sopapillas-e6d773.netlify.app
 ---
 ### 🏡 Aqaar AI Concierge
 
