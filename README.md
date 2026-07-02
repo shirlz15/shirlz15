@@ -57,7 +57,7 @@ Complex problems, clear solutions — that's the challenge I enjoy most.
 
 - **Repository:** https://github.com/shirlz15/TalentLens-AI
 - **Demo:** https://tiny-sopapillas-e6d773.netlify.app
-
+---
 ### 🏡 Aqaar AI Concierge
 
 `AI Real Estate Concierge` &nbsp; `RAG + Gemini LLM` &nbsp; `Featured Project`
